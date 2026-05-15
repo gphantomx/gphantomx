@@ -38,11 +38,11 @@ Beyond development, I actively explore competitive programming, cybersecurity, a
 
 <div align="center">
 
-![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goganadhanush&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide=issues)
+![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gphantomx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide=issues)
 
-![Dhanush's GitHub Streak](https://streak-stats.demolab.com/?user=goganadhanush&theme=tokyonight&fire=FF7F50)
+![Dhanush's GitHub Streak](https://streak-stats.demolab.com/?user=gphantomx&theme=tokyonight&fire=FF7F50)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goganadhanush&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gphantomx&layout=compact&theme=tokyonight)
 
 </div>
 
